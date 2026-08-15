@@ -1,8 +1,7 @@
-# 🚚 Microchip Supply Chain & Logistics Analytics 
+# 📈 Microchip Supply Chain & Logistics Analytics 
 
 > **Project Status: In Progress**
 
-![Thumbnail](Images/logistics_thumbnail1.png)
 ![Thumbnail](Images/logistics_thumbnail.png)
 
 ---
