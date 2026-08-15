@@ -1,4 +1,4 @@
-# Microchip Supply Chain Logistics Analytics 🚚 ##(Ongoing)
+# Microchip Supply Chain Logistics Analytics 🚚 (Ongoing)
 
 
 ---
