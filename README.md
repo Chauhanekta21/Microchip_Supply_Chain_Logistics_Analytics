@@ -1,7 +1,8 @@
-# Microchip Supply Chain Logistics Analytics 🚚 
+# 🚚 Microchip Supply Chain & Logistics Analytics 
 
 > **Project Status: In Progress**
 
+![Thumbnail](Images/logistics_thumbnail.png)
 
 ---
 
@@ -45,7 +46,7 @@
 
 ### 🔹 Dataset Information
 
-* **Dataset:** Microchip Supply Chain Logistics Dataset
+* **Dataset:** Microchip Supply Chain & Logistics Dataset
 * **Source:** Kaggle
 * **Dataset Link:** [microchip-supply-chain-logistics-kaggle-dataset](https://www.kaggle.com/datasets/anisseezzebdi/supply-chain-logistics-problem)
 * **Industry:** Microchip Manufacturing
