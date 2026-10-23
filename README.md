@@ -2,7 +2,6 @@
 
 > **Project Status: In Progress**
 
-![Thumbnail](Images/logistics_thumbnail.png)
 
 ---
 
